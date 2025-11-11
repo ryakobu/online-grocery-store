@@ -1,0 +1,190 @@
+/*header{
+border-spacing: 15px;
+margin:0px 0px 0px 0px;
+border:1px solid red;
+padding:0px 0px 0px 0px;
+background-color:none;
+height:20px;
+width:150px;
+color:red;
+text-align:center;
+font-family:normal;
+font-weight:bold;
+font-size:20px;
+}*/
+/*main page*/
+#admin, #customer {
+	border: 1px solid green;
+	margin: 20px 0px 0px 500px;
+	height: 60px;
+	width: 300px;
+	padding: 20px 0px 0px 20px;
+	background-color: lightgrey;
+	border-radius: 30px;
+	text-align: center;
+	font-family: normal;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#admin a, #customer a {
+	color: white;
+}
+/*admin page*/
+#table1 tr {
+	float: left;
+}
+
+#table1 {
+	background-color: royalblue;
+	width: 1350px;
+	height: 60px;
+}
+
+#truyum {
+	width: 100px;
+	height: 60px;
+}
+
+#truyum td {
+	color: white;
+	font-family: normal;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 15px 0px 0px 25px;
+}
+
+#logo {
+	width: 410px;
+	height: 60px;
+}
+
+#menu {
+	width: 740px;
+	height: 60px;
+}
+
+#menu td {
+	padding: 20px 0px 0px 600px;
+	font-family: normal;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+#menu td a {
+	color: white;
+}
+
+div#menuitems {
+	margin: 50px 0px 0px 100px;
+	width: 1100px;
+	height: 60px;
+}
+
+#table2 {
+	margin: 10px 0px 0px 100px;
+	width: 70%;
+}
+
+#table2 td, #table2 th {
+	text-align: left;
+	height: 40px;
+}
+
+div#copyright {
+	margin: 0px 0px 0px 0px;
+	padding: 20px 0px 0px 2px;
+	height: 60px;
+	width: 1350px;
+	text-align: left;
+	font-family: normal;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: lightgrey;
+	position: absolute;
+	bottom: 50px;
+}
+/*edit menu itmes admin*/
+div#name {
+	margin: 40px 0px 0px 100px;
+	width: 1100px;
+}
+
+#table3 tr {
+	float: left;
+}
+
+#table3 {
+	width: 1100px;
+	margin: 10px 0px 0px 100px;
+}
+
+#table3 tr {
+	width: 271px;
+}
+
+div#name input {
+	width: 1050px;
+}
+
+#category, #date, #price {
+	width: 230px;
+}
+
+div#freedelivery {
+	margin: 10px 0px 0px 100px;
+}
+
+div#save input {
+	background-color: royalblue;
+	margin: 10px 0px 0px 100px;
+	width: 100px;
+	height: 30px;
+}
+/*edit menu item status*/
+div#menuitemstatus {
+	color: limegreen;
+	margin: 20px 0px 0px 100px;
+	font-family: normal;
+	font-weight: bold;
+	font-size: 15px;
+}
+/*menu item list customer*/
+#cart {
+	width: 85px;
+	height: 60px;
+}
+
+#cart td {
+	padding: 20px 0px 0px 35px;
+	font-family: normal;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+#cart td a {
+	color: white;
+}
+/*empty cart*/
+#cartempty {
+	margin: 10px 0px 0px 100px;
+	width: 1100px;
+	height: 40px;
+	font-family: normal;
+	font-weight: light;
+	font-size: 18px;
+}
+
+#cartempty a {
+	color: blue;
+	padding-left: 15px;
+}
+/*add to cart notification*/
+#addtocart {
+	color: limegreen;
+	text-align: center;
+	height: 30px;
+	margin: 10px 0px 0px 100px;
+	width: 1100px;
+}
+/*cart*/
